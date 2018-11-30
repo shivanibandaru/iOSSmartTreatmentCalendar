@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calendar-iOS
 
 Calendar iOS is a Basic Scheduling Calendar for a iOS 11, built with Swift 4
@@ -50,3 +51,6 @@ This app was built using:
 
 ## Author
 Written by Agustin Mendoza. You can [find me on Twitter.](https://twitter.com/agustinoromo)
+=======
+# iOSSmartTreatmentCalendar
+>>>>>>> 56acfcfb68b80ddae52ad87c8cc8655b5b386b44
